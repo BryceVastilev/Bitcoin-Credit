@@ -1,6 +1,6 @@
 # Bitcoin Credit
 
-# Rebuilding Bitcoin
+## Rebuilding Bitcoin
 
 
 
