@@ -18,8 +18,6 @@ Gigacoin is not yet grown up. Were still building on to our currency and it is n
 Gigacoin is licenced under the MIT Licence there for allowing anyone to make there own currency of Gigacoin.
 https://opensource.org/licenses/MIT
 
-## Contact
-If you are intrested in the Gigacoin Project please contact:
-
-Discord: Jagers#3006
+## Developers
+Bryce Vastillev
 
