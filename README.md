@@ -1,7 +1,5 @@
 # Gigacoin
 
-## Unregulated & Uncentralized Cryptocurrency
-
 
 
 > Rebuilding Cryptocurrency
