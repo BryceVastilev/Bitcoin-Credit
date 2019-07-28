@@ -1,10 +1,11 @@
-# Bitcoin Credit
+# Gigacoin
 
-## Rebuilding Bitcoin
+## Unregulated & Uncentralized Cryptocurrency
 
 
 
-Welcome to the Bitcoin Credit Github page.
+> Rebuilding Cryptocurrency
 
-We are hoping to rebuild bitcoin. Many weaknessed have shown in Bitcoin over the years, were here to fix them.
-The Bitcoin Blockchain & Bitcoin will be remade.
+
+
+## What is Gigacoin?
